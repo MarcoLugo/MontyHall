@@ -26,7 +26,7 @@ From this, I decided to first benchmark their own code on my own computer (and y
  Language        | Average Time (s)     | Std. Dev. Time (s)  | File | Line Count
 | ------------- |:-------------:|:-------------:|:-------------:|:-------------:|
 | Python      | 276 | 54.1 | AChristian_MontyHallParadox.ipynb | 74
-| SAS      | 0.64 | N/A | AChristian_MontyHallParadox.sas | 88
+| SAS      | 0.64 | N/A | AChristian_MontyHallParadox.sas | 57
 | Python      | 8.57 | 0.0264 | Zangror_MontyHallParadox.ipynb | 33
 
 I added my own two implementations and was pleasantly surprised with the results, the updated table is below:
